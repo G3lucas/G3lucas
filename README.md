@@ -12,7 +12,7 @@
 🎓 Atualmente eu estou cursando sistema para internet   [IFMA].
 
 
-### Eu estou estudando estudando... 🧩
+### Eu estou estudando... 🧩
 
 **Tecnologias e Ferramentas**
 
