@@ -1,6 +1,8 @@
 
 # Oi, eu me chamo Gerson Lucas 👋
 
+<img align='right' src="https://i.gifer.com/XOsX.gif" width="230">
+
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor.
@@ -8,6 +10,7 @@
 👩‍💻 Tenho interesse na Programação.
  
 🎓 Atualmente eu estou cursando sistema para internet   [IFMA].
+
 
 ### Eu estou estudando estudando... 🧩
 
